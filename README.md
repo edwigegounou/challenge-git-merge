@@ -1,1 +1,2 @@
-# challenge-git-merge
+LOCAL
+ceci est un essai de git merge
